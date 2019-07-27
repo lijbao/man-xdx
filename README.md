@@ -1,2 +1,4 @@
 # man-xdx
-hey ,brother
+Hi brother!
+Xdx here,I like the C++ and Linux .
+
